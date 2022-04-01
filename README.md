@@ -36,6 +36,6 @@
 5. `npm start`
 
 # Thank you 🎇
-**package** : 
+**package**
 https://github.com/RemyK888/discord-together
 https://discord.js.org/
