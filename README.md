@@ -1,4 +1,4 @@
-## Simple Discord Together Bot
+# **Simple Discord Together Bot**
 
 # Command list
 
