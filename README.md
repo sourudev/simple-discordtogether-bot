@@ -2,7 +2,7 @@
 
 # Command list
 
-> default prefix is `.`
+> default prefix is `!`
 
  - youtube
  - poker
@@ -20,8 +20,8 @@
  - ocho
 
 ## Example
-`.youtube`  - watch youtube together in voice channel
-`.poker` - Play Poker with your friends in voice channel
+`!youtube`  - watch youtube together in voice channel
+`!poker` - Play Poker with your friends in voice channel
 
 # Self Host
 1.   `git clone https://github.com/sourudev/simple-discordtogether-bot.git`
