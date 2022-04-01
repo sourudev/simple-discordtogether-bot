@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "discord-together": "^1.3.3",
+    "discord.js": "^13.6.0"
+  },
+  "name": "simplediscordtogetherbot",
+  "version": "1.0.0",
+  "author": "SourDes",
+  "scripts": {
+    "start": "node index.js" 
+  }
+}
+
