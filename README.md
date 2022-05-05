@@ -1,5 +1,5 @@
 # **Simple Discord Together Bot**
-<a href="https://discord.com/oauth2/authorize?client_id=889515319029268491&scope=bot&permissions=8" target="_blank">
+<a href="https://discord.com/oauth2/authorize?client_id=964567285362745395&scope=bot&permissions=8" target="_blank">
   <img align="center" alt="Discord" width="500px" src="https://i.imgur.com/Obzow2N.png" />
 </a>
 > Thai Language Bot
